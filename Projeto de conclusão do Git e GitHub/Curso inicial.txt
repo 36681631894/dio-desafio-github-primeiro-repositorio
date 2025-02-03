@@ -1,0 +1,3 @@
+Para conclusão do curso inicial de Git e GitHub, criei um repositório no Git e clonei para que fosse exibido na minha máquina, o que o foi realizado com sucesso.
+
+Em seguida, o presente arquivo será encaminhado para o Git, através dos comandos ensinados no curso. 
