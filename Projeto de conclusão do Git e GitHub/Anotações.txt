@@ -1,0 +1,2 @@
+Para conclusão do curso, devo realizar meu primeiro repositório.
+Estou feliz em aprender sobre as ferramentas do Git e GitHub
