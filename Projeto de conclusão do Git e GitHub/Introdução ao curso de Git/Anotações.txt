@@ -1,0 +1,2 @@
+Para conclusão do curso de Git e GitHud, devo criar meu primeiro repositório. 
+Foi um desafio, pois tive que prestar bastante atenção nos comando, já que tudo é novidade para mim. 
